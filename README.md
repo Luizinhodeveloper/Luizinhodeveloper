@@ -12,7 +12,7 @@ Olá, meu nome é Luiz, mais conhecido como Luizinho. Estou me tornando desenvol
 Hello, my name is Luiz, better known as Luizinho. I'm becoming a developer, currently taking a technical IT course with an emphasis on programming. I'm 22 years old and in my free time I like to play Counter Strike, chat on Discord with my friends and play the guitar.
 </p>
 
- 
+<br>
 
 ## Tecnologias e Habilidades
 <p align="justify">
