@@ -5,7 +5,9 @@
 
 ## Sobre mim
 <p align="justify">
-Olá, meu nome é Luiz, mais conhecido como Luizinho. Estou me tornando desenvolvedor, atualmente fazendo um curso técnico de TI com ênfase em programação. Tenho 22 anos de idade e no meu tempo livre gosto de jogar Counter Strike, conversar no Discord com meus amigos e tocar guitarra. <br> ----------------------------------------------------------------------------</br>
+Olá, meu nome é Luiz, mais conhecido como Luizinho. Estou me tornando desenvolvedor, atualmente fazendo um curso técnico de TI com ênfase em programação. Tenho 22 anos de idade e no meu tempo livre gosto de jogar Counter Strike, conversar no Discord com meus amigos e tocar guitarra. 
+<br>
+Translate
 Hello, my name is Luiz, better known as Luizinho. I'm becoming a developer, currently taking a technical IT course with an emphasis on programming. I'm 22 years old and in my free time I like to play Counter Strike, chat on Discord with my friends and play the guitar.
 </p>
 
