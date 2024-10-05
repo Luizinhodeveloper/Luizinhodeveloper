@@ -34,4 +34,4 @@ Hello, my name is Luiz, better known as Luizinho. I'm becoming a developer, curr
 <p align="justify">
 <a href="https://www.twitch.tv/gobloweasy"><img src="https://img.shields.io/badge/Twitch-0d1117?style=for-the-badge&logo=twitch&logoColor=white"/></a>
 
-![snake gif](https://github.com/Luizinhodeveloper/Luizinhodeveloper/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Luizinhodeveloper/Luizinhodeveloper/blob/output/github-contribution-grid-snake-dark.svg)
